@@ -14,7 +14,7 @@ The narayana-full zip is not downloadable anymore from the website, but you can 
 
 | | Version | Date | License |
 | ---------------------------------------- | ----------- | ----------------- | ---------------- |
-| [Narayana Source Code](https://github.com/jbosstm/narayana/releases/tag/7.2.0.Final) | 7.2.0.Final | 2024-10-15 | Apache-2.0
+| [Narayana Source Code](https://github.com/jbosstm/narayana/releases/tag/7.2.0.Final) | 7.2.0.Final | 2025-01-24 | Apache-2.0
 
 [Legacy Narayana versions](../downloads-other/index.html)
 
